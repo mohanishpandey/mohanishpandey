@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Mohanish and I'm a final year student @BIET JHANSI, from JHANSI</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning MERN stack and DSA<br>🎯 Goals: to make the world a better place<br>🎲 Fun fact: I am AI MLenthusiast too.</p>
 
 ###
 
