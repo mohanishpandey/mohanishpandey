@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning MERN stack and DSA<br>🎯 Goals: to make the world a better place<br>🎲 Fun fact: I am AI MLenthusiast too.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN stack and DSA<br>🎯 Goals: to make the world a better place<br>🎲 Fun fact: I am AI MLenthusiast too.</p>
 
 ###
 
