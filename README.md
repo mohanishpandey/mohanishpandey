@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN stack and DSA<br>🎯 Goals: to make the world a better place<br>🎲 Fun fact: I am AI MLenthusiast too.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Visit my portfolio: <a href= " https://portfolio-nu-ecru-70.vercel.app/ "> </a><br>SDE enthusiast and MERN developer.<br>🎲 Fun fact: Interstellar My fasv. movie.</p>
 
 ###
 
