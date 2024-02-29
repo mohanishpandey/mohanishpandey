@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Visit my portfolio: <a href= " https://portfolio-nu-ecru-70.vercel.app/ ">PORTFOLIO </a><br>SDE enthusiast and MERN developer.<br>🎲 Fun fact: Interstellar My fav. movie.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Visit my portfolio: <a href="https://portfolio-nu-ecru-70.vercel.app/"> PORTFOLIO </a><br>SDE enthusiast and MERN developer.<br>🎲 Fun fact: Interstellar My fav. movie.</p>
 
 ###
 
