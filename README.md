@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohanish and I'm a final year student @BIET JHANSI, from JHANSI</p>
+<p align="left">My name is Mohanish and I'm a GET and MERN developer </p>
 
 ###
 
@@ -12,11 +12,10 @@
 
 <p align="left">✨ Creating bugs since 2021<br>📚 Visit my portfolio: <a href="https://portfolio-nu-ecru-70.vercel.app/"> PORTFOLIO </a><br>SDE enthusiast and MERN developer.<br>🎲 Fun fact: I like solving big problems with people and enchace my skillsets.</p>
 
-###
 
 <h2 align="left">My Tech Stacks</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -42,10 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <br>  <br>  <br>  <br>
-  
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohanishpandey&count_private=true&theme=tokyonight&showicons=true)]()
+  <br>  <br>  <br>  
 
+<h2 align="left">My Stats</h2>
+
+###
+  
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohanishpandey&count_private=true&theme=tokyonight&showicons=true)]()            <br>                      
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanishpandey&langs_count=5&theme=tokyonight)]()
 </div>
 
