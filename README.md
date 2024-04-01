@@ -42,6 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanishpandey&show_icons=true&theme=radical)
 </div>
-[![Mohanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanishpandey)](https://github.com/mohanishpandey/github-readme-stats)
 
