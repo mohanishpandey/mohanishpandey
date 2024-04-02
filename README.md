@@ -1,3 +1,4 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -47,9 +48,13 @@
 
 ###
   
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohanishpandey&count_private=true&theme=tokyonight&showicons=true)]() <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanishpandey&theme=tokyonight" alt="mohanishpandey" />
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanishpandey" alt="mohanishpandey" />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohanishpandey&langs_count=5"   />
+ <img  alt="Github Contribution Stats"  src="https://github-contribution-stats.vercel.app/api/?username=mohanishpandey" />
+ <img  alt="GIF" width="400px" height="300px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
   
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanishpandey&langs_count=5&theme=tokyonight)]()
+
+
   
   
 
