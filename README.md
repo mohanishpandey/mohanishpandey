@@ -47,7 +47,11 @@
 
 ###
   
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohanishpandey&count_private=true&theme=tokyonight&showicons=true)]()            <br>                      
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohanishpandey&count_private=true&theme=tokyonight&showicons=true)]() <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanishpandey&theme=tokyonight" alt="mohanishpandey" />
+  
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanishpandey&langs_count=5&theme=tokyonight)]()
+  
+  
+
 </div>
 
