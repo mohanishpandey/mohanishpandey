@@ -14,7 +14,7 @@ Experienced in various programming languages and frameworks. Dedicated to contin
 
 ###
 
-<p align="left"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mern-Stack+Web+Developer;Graduate+Engineering+Trainee;DS%20|%20AI%20|%20ML%20Enthusiast;Problem%20Solver;Always%20learning%20new%20things&width=500&height=50&font=georgia"></a>
+<p align="left"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mern-Stack+Web+Developer;Graduate+Engineering+Trainee;Computer%20Science%20Subject%20Matter%20Expert%20at%20Chegg;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&width=500&height=50&font=georgia"></a>
 </body>
   <br>
   Checkout my portfolio: <a href="https://portfolio-nu-ecru-70.vercel.app/"> PORTFOLIO </a></p>
