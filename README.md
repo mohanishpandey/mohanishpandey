@@ -48,14 +48,15 @@ Experienced in various programming languages and frameworks. Dedicated to contin
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanishpandey" alt="mohanishpandey" />
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohanishpandey&langs_count=5"   />
  <img  alt="Github Contribution Stats"  src="https://github-contribution-stats.vercel.app/api/?username=mohanishpandey" />
- <img  alt="GIF" width="400px" height="300px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+ 
   
 <h2 align="left">Find Me At</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"><br>
+<img  align="center" alt="GIF" width="700px" height="400px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
   
 
 </div>
