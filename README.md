@@ -1,17 +1,24 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there, What's up?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+Hey there! 👋 I'm Mohanish, an enthusiastic coder with a knack for problem-solving and a love for the MERN (MongoDB, Express.js, React, Node.js) stack. My journey into the world of coding began with a fascination for algorithms and data structures, and I've honed my skills in C++ to tackle challenging problems on platforms like LeetCode.
+Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.
+<br> <br>
 
 ###
 
-<p align="left">My name is Mohanish and I'm a GET and MERN developer </p>
+<p align="left"> </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">What I do?</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Visit my portfolio: <a href="https://portfolio-nu-ecru-70.vercel.app/"> PORTFOLIO </a><br>SDE enthusiast and MERN developer.<br>🎲 Fun fact: I like solving big problems with people and enchace my skillsets.</p>
+<p align="left"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mern-Stack+Web+Developer;Graduate+Engineering+Trainee;DS%20|%20AI%20|%20ML%20Enthusiast;Problem%20Solver;Always%20learning%20new%20things&width=500&height=50&font=georgia"></a>
+</body>
+  <br>
+  Checkout my portfolio: <a href="https://portfolio-nu-ecru-70.vercel.app/"> PORTFOLIO </a></p>
+  <br>
 
 
 <h2 align="left">My Tech Stacks</h2>
