@@ -44,10 +44,12 @@ Experienced in various programming languages and frameworks. Dedicated to contin
 <h2 align="left">My Stats</h2>
 
 ###
-  
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanishpandey" alt="mohanishpandey" />
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohanishpandey&langs_count=5"   />
- <img  alt="Github Contribution Stats"  src="https://github-contribution-stats.vercel.app/api/?username=mohanishpandey" />
+ 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohanishpandey&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+ 
+ <img height = "400px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohanishpandey&langs_count=5"/>
+ 
+ <img  height = "400px" alt="Github Contribution Stats"  src="https://github-contribution-stats.vercel.app/api/?username=mohanishpandey"/>
  
   
 <h2 align="left">Find Me At</h2>
