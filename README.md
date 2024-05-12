@@ -59,6 +59,8 @@ Experienced in various programming languages and frameworks. Dedicated to contin
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"><br>
 <img  align="center" alt="GIF" width="700px" height="400px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanishpandey
+&label=Profile%20views&color=0e75b6&style=flat" alt="friekycoder" /> </p>
   
 
 </div>
