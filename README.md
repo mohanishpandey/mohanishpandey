@@ -3,6 +3,7 @@
 Hey there! 👋 I'm Mohanish, an enthusiastic coder with a knack for problem-solving and a love for the MERN (MongoDB, Express.js, React, Node.js) stack. My journey into the world of coding began with a fascination for algorithms and data structures, and I've honed my skills in C++ to tackle challenging problems on platforms like LeetCode.
 Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.
 <br> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanishpandey&label=Profile%20views&color=0e75b6&style=flat" alt="views"/> </p>
 
 ###
 
@@ -18,6 +19,8 @@ Experienced in various programming languages and frameworks. Dedicated to contin
 </body>
   <br>
   Checkout my portfolio: <a href="https://portfolio-nu-ecru-70.vercel.app/"> PORTFOLIO </a></p>
+  
+
   <br>
 
 
@@ -61,8 +64,6 @@ Experienced in various programming languages and frameworks. Dedicated to contin
 <img  align="center" alt="GIF" width="700px" height="400px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanishpandey&label=Profile%20views&color=0e75b6&style=flat" alt="views"/> </p>
   
 
 </div>
