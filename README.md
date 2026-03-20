@@ -1,8 +1,10 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1 align="left">Hey there, What's up?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-Hey there! 👋 I'm Mohanish, an enthusiastic coder with a knack for problem-solving and a love for the MERN (MongoDB, Express.js, React, Node.js) stack. My journey into the world of coding began with a fascination for algorithms and data structures, and I've honed my skills in C++ to tackle challenging problems on platforms like LeetCode.
-Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. <br>
-Open to collaboration and exploring new opportunities.
+ I'm Mohanish, a Software Engineer at Measure Practice Management (California, USA) with a passion for building high-performance backend systems, scalable architectures, and AI-integrated solutions. </br> </br>My engineering journey began with a deep love for algorithms and data structures — sharpened through 400+ LeetCode problems (rating 1567, top 5%) and a GATE CSE 2024 score in the 98.2 percentile.</br></br></br>
+I specialize in .NET, C#, SQL Server, and Azure, working on complex enterprise domains like Billing, Data Collection, ABA Business Rules, and AI Integration — where I've driven optimizations like reducing database execution time from 8 minutes to 2 seconds and cutting database calls by 95%, impacting 3,000+ daily users.</br></br>
+Beyond backend engineering, I'm an enthusiastic explorer of Artificial Intelligence and Machine Learning — actively experimenting with LLMs, AI workflow automation, and integrating intelligent capabilities into production systems.</br></br>
+A Gold Medalist in the National Science Talent Search Competition, Technical Lead at Google Developer Student Clubs (GDSC), and an Intel & NITI Aayog AIM Competition team lead — I bring both technical depth and a collaborative leadership mindset.</br>
+Dedicated to continuous learning, clean system design, and building things that genuinely make an impact.</br></br> Open to collaboration and exciting new opportunities! 🚀
 <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanishpandey&label=Profile%20views&color=0e75b6&style=flat" alt="views"/> </p>
 
@@ -16,7 +18,7 @@ Open to collaboration and exploring new opportunities.
 
 ###
 
-<p align="left"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+at+MeasurePM;>Dot+Net+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Mern-Stack+Web+Developer;Always%20learning%20new%20things&width=500&height=50&font=georgia"></a>
+<p align="left"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+at+MeasurePM;Dot+Net+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Mern-Stack+Web+Developer;Always%20learning%20new%20things&width=500&height=50&font=georgia"></a>
 </body>
   <br>
   Checkout my portfolio: <a href="https://portfolio-nu-ecru-70.vercel.app/"> PORTFOLIO </a></p>
